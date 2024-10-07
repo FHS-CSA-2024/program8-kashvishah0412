@@ -2,7 +2,7 @@
 
 //Your code here
 import java.util.Scanner;
-
+//Class name should match file name
 public class IntegerOperations {
 
     public static void main(String[] args) {
